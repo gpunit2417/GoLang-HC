@@ -19,7 +19,7 @@ func performGetRequests(){
 
 	if err!= nil{
 		panic(err)
-	}
+	} 
 
 	defer response.Body.Close()
 
