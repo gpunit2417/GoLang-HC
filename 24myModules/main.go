@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Modules in golang")
+	fmt.Println("Various modules in golang")
 
 	greeter()
 
